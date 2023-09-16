@@ -330,15 +330,15 @@ nav .menu .menu_item .drop-down-menu .down-menu:hover {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url('../img/Dotka2.png');
+    /* background-image: url('../img/Dotka2.png');
     top: 0;
-    left: 0;
-    background-size: cover;
+    left: 0; */
+    /* background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: top; */
     border-radius: 8px;
-    opacity: 0;
-    transition: opacity 0.5s;
+    /* opacity: 0;
+    transition: opacity 0.5s; */
 }
 
 .work-item:hover .card-image {
